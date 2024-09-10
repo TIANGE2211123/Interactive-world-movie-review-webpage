@@ -1,0 +1,172 @@
+country,release_year,duration(min),collection,value
+United States,2020,90+,comedy,29
+United States,2020,100+,comedy,31
+United States,2020,80+,comedy,15
+United States,2020,120+,comedy,31
+United States,2020,110+,comedy,17
+United States,2020,<80,comedy,4
+United States,2020,<80,drama,24
+United States,2020,80+,drama,21
+United States,2020,90+,drama,34
+United States,2020,100+,drama,35
+United States,2020,120+,drama,25
+United States,2020,110+,drama,24
+United States,2020,90+,documentary,25
+United States,2020,120+,documentary,9
+United States,2020,100+,documentary,11
+United States,2020,110+,documentary,6
+United States,2020,<80,documentary,8
+United States,2020,80+,documentary,6
+United States,2020,80+,Children & Family movies,6
+United States,2020,<80,Children & Family movies,1
+United States,2020,120+,Children & Family movies,8
+United States,2020,110+,Children & Family movies,3
+United States,2020,90+,Children & Family movies,16
+United States,2020,100+,Children & Family movies,5
+United States,2020,100+,Action & Adventure,1
+United States,2020,80+,Action & Adventure,3
+United States,2020,110+,Action & Adventure,1
+United States,2020,90+,Action & Adventure,2
+United States,2020,<80,Action & Adventure,30
+United States,2019,<80,comedy,4
+United States,2019,90+,comedy,15
+United States,2019,110+,comedy,14
+United States,2019,120+,comedy,13
+United States,2019,80+,comedy,4
+United States,2019,100+,comedy,16
+United States,2019,<80,drama,14
+United States,2019,90+,drama,28
+United States,2019,80+,drama,11
+United States,2019,120+,drama,11
+United States,2019,100+,drama,15
+United States,2019,110+,drama,12
+United States,2019,80+,documentary,7
+United States,2019,120+,documentary,7
+United States,2019,100+,documentary,6
+United States,2019,110+,documentary,5
+United States,2019,90+,documentary,4
+United States,2019,<80,documentary,2
+United States,2019,100+,Children & Family movies,4
+United States,2019,120+,Children & Family movies,6
+United States,2019,90+,Children & Family movies,11
+United States,2019,<80,Children & Family movies,1
+United States,2019,80+,Children & Family movies,3
+United States,2019,110+,Children & Family movies,1
+United States,2019,100+,Action & Adventure,1
+United States,2019,80+,Action & Adventure,2
+United States,2019,<80,Action & Adventure,6
+United States,2018,100+,comedy,14
+United States,2018,90+,comedy,14
+United States,2018,80+,comedy,7
+United States,2018,<80,comedy,1
+United States,2018,120+,comedy,10
+United States,2018,110+,comedy,3
+United States,2018,90+,drama,19
+United States,2018,80+,drama,11
+United States,2018,120+,drama,9
+United States,2018,<80,drama,5
+United States,2018,110+,drama,6
+United States,2018,100+,drama,16
+United States,2018,80+,documentary,3
+United States,2018,110+,documentary,3
+United States,2018,100+,documentary,6
+United States,2018,90+,documentary,4
+United States,2018,<80,documentary,2
+United States,2018,120+,documentary,2
+United States,2018,80+,Children & Family movies,7
+United States,2018,90+,Children & Family movies,10
+United States,2018,<80,Children & Family movies,1
+United States,2018,100+,Children & Family movies,3
+United States,2018,120+,Children & Family movies,1
+United States,2018,<80,Action & Adventure,3
+United States,2018,90+,Action & Adventure,3
+United States,2018,80+,Action & Adventure,2
+United States,2018,100+,Action & Adventure,2
+United Kingdom,2020,120+,comedy,4
+United Kingdom,2020,100+,comedy,1
+United Kingdom,2020,110+,comedy,3
+United Kingdom,2020,90+,comedy,3
+United Kingdom,2020,<80,drama,9
+United Kingdom,2020,90+,drama,3
+United Kingdom,2020,110+,drama,3
+United Kingdom,2020,120+,drama,3
+United Kingdom,2020,100+,drama,2
+United Kingdom,2020,100+,documentary,2
+United Kingdom,2020,<80,documentary,1
+United Kingdom,2020,120+,documentary,1
+United Kingdom,2020,80+,documentary,1
+United Kingdom,2020,110+,Children & Family movies,2
+United Kingdom,2020,120+,Children & Family movies,2
+United Kingdom,2020,90+,Children & Family movies,1
+United Kingdom,2020,<80,Action & Adventure,8
+United Kingdom,2019,110+,comedy,4
+United Kingdom,2019,80+,comedy,3
+United Kingdom,2019,<80,comedy,2
+United Kingdom,2019,120+,comedy,6
+United Kingdom,2019,100+,comedy,6
+United Kingdom,2019,90+,comedy,4
+United Kingdom,2019,<80,drama,4
+United Kingdom,2019,110+,drama,6
+United Kingdom,2019,120+,drama,7
+United Kingdom,2019,100+,drama,4
+United Kingdom,2019,90+,drama,5
+United Kingdom,2019,80+,drama,6
+United Kingdom,2019,90+,documentary,2
+United Kingdom,2019,100+,documentary,1
+United Kingdom,2019,80+,documentary,2
+United Kingdom,2019,120+,documentary,2
+United Kingdom,2019,110+,documentary,2
+United Kingdom,2019,100+,Children & Family movies,2
+United Kingdom,2019,120+,Children & Family movies,1
+United Kingdom,2019,110+,Children & Family movies,2
+United Kingdom,2019,80+,Children & Family movies,1
+United Kingdom,2019,<80,Children & Family movies,1
+United Kingdom,2019,90+,Children & Family movies,1
+United Kingdom,2019,90+,Action & Adventure,1
+United Kingdom,2019,<80,Action & Adventure,2
+United Kingdom,2018,90+,comedy,2
+United Kingdom,2018,100+,comedy,3
+United Kingdom,2018,110+,comedy,1
+United Kingdom,2018,80+,comedy,3
+United Kingdom,2018,80+,drama,2
+United Kingdom,2018,90+,drama,3
+United Kingdom,2018,<80,drama,2
+United Kingdom,2018,120+,drama,1
+United Kingdom,2018,100+,drama,1
+United Kingdom,2018,<80,documentary,1
+United Kingdom,2018,80+,documentary,1
+United Kingdom,2018,90+,documentary,1
+United Kingdom,2018,90+,Children & Family movies,1
+United Kingdom,2018,100+,Children & Family movies,1
+United Kingdom,2018,80+,Children & Family movies,1
+India,2020,90+,comedy,1
+India,2019,120+,comedy,1
+India,2019,100+,drama,1
+India,2019,<80,Children & Family movies,1
+India,2018,<80,comedy,21
+India,2018,90+,comedy,18
+India,2018,110+,comedy,12
+India,2018,100+,comedy,17
+India,2018,120+,comedy,26
+India,2018,80+,comedy,5
+India,2018,<80,drama,14
+India,2018,90+,drama,25
+India,2018,120+,drama,16
+India,2018,110+,drama,12
+India,2018,100+,drama,16
+India,2018,80+,drama,10
+India,2018,120+,documentary,2
+India,2018,90+,documentary,1
+India,2018,110+,documentary,1
+India,2018,<80,documentary,7
+India,2018,100+,documentary,2
+India,2018,80+,documentary,2
+India,2018,<80,Children & Family movies,8
+India,2018,120+,Children & Family movies,3
+India,2018,90+,Children & Family movies,9
+India,2018,110+,Children & Family movies,3
+India,2018,100+,Children & Family movies,4
+India,2018,80+,Children & Family movies,1
+India,2018,<80,Action & Adventure,29
+India,2018,110+,Action & Adventure,1
+India,2018,90+,Action & Adventure,2
