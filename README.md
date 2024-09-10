@@ -31,7 +31,6 @@ The Parallel Sets diagram shows film production data for the top three countries
 Hovering over a path highlights the flow, allowing users to see the transition between different attributes like country, release year, and genre.
 
 ![Parallel Sets](asset/5.png)
-
 ![Parallel Sets](asset/6.png)
 
 #### 3. Case Study
