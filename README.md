@@ -29,8 +29,11 @@ The Parallel Sets diagram shows film production data for the top three countries
 
 #### 2. Interactive Design
 Hovering over a path highlights the flow, allowing users to see the transition between different attributes like country, release year, and genre.
+
 ![Parallel Sets](asset/5.png)
+
 ![Parallel Sets](asset/6.png)
+
 #### 3. Case Study
 The data reveals clear patterns: the US leads in total production, followed by India and the UK. Most films have a runtime of 90-110 minutes, with drama being the most common genre. In 2020, despite the pandemic, the US managed to increase its film production, whereas other countries like the UK and India experienced a decline.
 
